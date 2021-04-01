@@ -10,3 +10,6 @@
 - Make table (no CSS framworks Ant't) with history entries: 
     -  log in/out and time
     -  user agent info (browser name version etc.)
+
+Bonus points:
+- Unit testing (jest in project)

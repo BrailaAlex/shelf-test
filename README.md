@@ -7,7 +7,7 @@
 - Preserve state(on reload)
   - if user logged in: show table(next step)
   - if not logged in: show login form
-- Make table (no CSS framworks Ant't) with history entries: 
+- Make table (**no** CSS framworks Ant't Design, Material UI etc.) with history entries: 
     -  log in/out and time
     -  user agent info (browser name version etc.)
 
